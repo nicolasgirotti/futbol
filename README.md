@@ -1,7 +1,7 @@
 # futbol
 Aplicacion web para club de futbol
 
-Aplicacion web con python y flask. 
+(python y flask) 
 
 Objetivo para con el cliente: Organizar un torneo en un club de futbol, mostrar tabla del torneo, equipos, resultados, formas de inscribirse, etc.
 
